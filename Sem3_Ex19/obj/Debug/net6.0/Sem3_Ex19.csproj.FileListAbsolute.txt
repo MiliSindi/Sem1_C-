@@ -1,0 +1,15 @@
+C:\Users\SindeevaLL\Desktop\C#\Sem3_Ex19\bin\Debug\net6.0\Sem3_Ex19.exe
+C:\Users\SindeevaLL\Desktop\C#\Sem3_Ex19\bin\Debug\net6.0\Sem3_Ex19.deps.json
+C:\Users\SindeevaLL\Desktop\C#\Sem3_Ex19\bin\Debug\net6.0\Sem3_Ex19.runtimeconfig.json
+C:\Users\SindeevaLL\Desktop\C#\Sem3_Ex19\bin\Debug\net6.0\Sem3_Ex19.dll
+C:\Users\SindeevaLL\Desktop\C#\Sem3_Ex19\bin\Debug\net6.0\Sem3_Ex19.pdb
+C:\Users\SindeevaLL\Desktop\C#\Sem3_Ex19\obj\Debug\net6.0\Sem3_Ex19.csproj.AssemblyReference.cache
+C:\Users\SindeevaLL\Desktop\C#\Sem3_Ex19\obj\Debug\net6.0\Sem3_Ex19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SindeevaLL\Desktop\C#\Sem3_Ex19\obj\Debug\net6.0\Sem3_Ex19.AssemblyInfoInputs.cache
+C:\Users\SindeevaLL\Desktop\C#\Sem3_Ex19\obj\Debug\net6.0\Sem3_Ex19.AssemblyInfo.cs
+C:\Users\SindeevaLL\Desktop\C#\Sem3_Ex19\obj\Debug\net6.0\Sem3_Ex19.csproj.CoreCompileInputs.cache
+C:\Users\SindeevaLL\Desktop\C#\Sem3_Ex19\obj\Debug\net6.0\Sem3_Ex19.dll
+C:\Users\SindeevaLL\Desktop\C#\Sem3_Ex19\obj\Debug\net6.0\refint\Sem3_Ex19.dll
+C:\Users\SindeevaLL\Desktop\C#\Sem3_Ex19\obj\Debug\net6.0\Sem3_Ex19.pdb
+C:\Users\SindeevaLL\Desktop\C#\Sem3_Ex19\obj\Debug\net6.0\Sem3_Ex19.genruntimeconfig.cache
+C:\Users\SindeevaLL\Desktop\C#\Sem3_Ex19\obj\Debug\net6.0\ref\Sem3_Ex19.dll
