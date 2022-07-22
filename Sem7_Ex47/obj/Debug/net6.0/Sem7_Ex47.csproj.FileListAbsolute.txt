@@ -1,0 +1,15 @@
+C:\Users\SindeevaLL\Desktop\C#\Sem7_Ex47\bin\Debug\net6.0\Sem7_Ex47.exe
+C:\Users\SindeevaLL\Desktop\C#\Sem7_Ex47\bin\Debug\net6.0\Sem7_Ex47.deps.json
+C:\Users\SindeevaLL\Desktop\C#\Sem7_Ex47\bin\Debug\net6.0\Sem7_Ex47.runtimeconfig.json
+C:\Users\SindeevaLL\Desktop\C#\Sem7_Ex47\bin\Debug\net6.0\Sem7_Ex47.dll
+C:\Users\SindeevaLL\Desktop\C#\Sem7_Ex47\bin\Debug\net6.0\Sem7_Ex47.pdb
+C:\Users\SindeevaLL\Desktop\C#\Sem7_Ex47\obj\Debug\net6.0\Sem7_Ex47.csproj.AssemblyReference.cache
+C:\Users\SindeevaLL\Desktop\C#\Sem7_Ex47\obj\Debug\net6.0\Sem7_Ex47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SindeevaLL\Desktop\C#\Sem7_Ex47\obj\Debug\net6.0\Sem7_Ex47.AssemblyInfoInputs.cache
+C:\Users\SindeevaLL\Desktop\C#\Sem7_Ex47\obj\Debug\net6.0\Sem7_Ex47.AssemblyInfo.cs
+C:\Users\SindeevaLL\Desktop\C#\Sem7_Ex47\obj\Debug\net6.0\Sem7_Ex47.csproj.CoreCompileInputs.cache
+C:\Users\SindeevaLL\Desktop\C#\Sem7_Ex47\obj\Debug\net6.0\Sem7_Ex47.dll
+C:\Users\SindeevaLL\Desktop\C#\Sem7_Ex47\obj\Debug\net6.0\refint\Sem7_Ex47.dll
+C:\Users\SindeevaLL\Desktop\C#\Sem7_Ex47\obj\Debug\net6.0\Sem7_Ex47.pdb
+C:\Users\SindeevaLL\Desktop\C#\Sem7_Ex47\obj\Debug\net6.0\Sem7_Ex47.genruntimeconfig.cache
+C:\Users\SindeevaLL\Desktop\C#\Sem7_Ex47\obj\Debug\net6.0\ref\Sem7_Ex47.dll

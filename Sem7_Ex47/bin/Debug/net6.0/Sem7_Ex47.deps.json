@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sem7_Ex47/1.0.0": {
+        "runtime": {
+          "Sem7_Ex47.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sem7_Ex47/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
