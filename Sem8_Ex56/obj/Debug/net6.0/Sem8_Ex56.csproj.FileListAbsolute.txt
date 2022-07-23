@@ -1,0 +1,15 @@
+C:\Users\SindeevaLL\Desktop\C#\Sem8_Ex56\bin\Debug\net6.0\Sem8_Ex56.exe
+C:\Users\SindeevaLL\Desktop\C#\Sem8_Ex56\bin\Debug\net6.0\Sem8_Ex56.deps.json
+C:\Users\SindeevaLL\Desktop\C#\Sem8_Ex56\bin\Debug\net6.0\Sem8_Ex56.runtimeconfig.json
+C:\Users\SindeevaLL\Desktop\C#\Sem8_Ex56\bin\Debug\net6.0\Sem8_Ex56.dll
+C:\Users\SindeevaLL\Desktop\C#\Sem8_Ex56\bin\Debug\net6.0\Sem8_Ex56.pdb
+C:\Users\SindeevaLL\Desktop\C#\Sem8_Ex56\obj\Debug\net6.0\Sem8_Ex56.csproj.AssemblyReference.cache
+C:\Users\SindeevaLL\Desktop\C#\Sem8_Ex56\obj\Debug\net6.0\Sem8_Ex56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SindeevaLL\Desktop\C#\Sem8_Ex56\obj\Debug\net6.0\Sem8_Ex56.AssemblyInfoInputs.cache
+C:\Users\SindeevaLL\Desktop\C#\Sem8_Ex56\obj\Debug\net6.0\Sem8_Ex56.AssemblyInfo.cs
+C:\Users\SindeevaLL\Desktop\C#\Sem8_Ex56\obj\Debug\net6.0\Sem8_Ex56.csproj.CoreCompileInputs.cache
+C:\Users\SindeevaLL\Desktop\C#\Sem8_Ex56\obj\Debug\net6.0\Sem8_Ex56.dll
+C:\Users\SindeevaLL\Desktop\C#\Sem8_Ex56\obj\Debug\net6.0\refint\Sem8_Ex56.dll
+C:\Users\SindeevaLL\Desktop\C#\Sem8_Ex56\obj\Debug\net6.0\Sem8_Ex56.pdb
+C:\Users\SindeevaLL\Desktop\C#\Sem8_Ex56\obj\Debug\net6.0\Sem8_Ex56.genruntimeconfig.cache
+C:\Users\SindeevaLL\Desktop\C#\Sem8_Ex56\obj\Debug\net6.0\ref\Sem8_Ex56.dll
