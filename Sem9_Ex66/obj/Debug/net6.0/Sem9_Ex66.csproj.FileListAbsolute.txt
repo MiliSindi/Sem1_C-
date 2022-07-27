@@ -1,0 +1,15 @@
+C:\Users\SindeevaLL\Desktop\C#\Sem9_Ex66\bin\Debug\net6.0\Sem9_Ex66.exe
+C:\Users\SindeevaLL\Desktop\C#\Sem9_Ex66\bin\Debug\net6.0\Sem9_Ex66.deps.json
+C:\Users\SindeevaLL\Desktop\C#\Sem9_Ex66\bin\Debug\net6.0\Sem9_Ex66.runtimeconfig.json
+C:\Users\SindeevaLL\Desktop\C#\Sem9_Ex66\bin\Debug\net6.0\Sem9_Ex66.dll
+C:\Users\SindeevaLL\Desktop\C#\Sem9_Ex66\bin\Debug\net6.0\Sem9_Ex66.pdb
+C:\Users\SindeevaLL\Desktop\C#\Sem9_Ex66\obj\Debug\net6.0\Sem9_Ex66.csproj.AssemblyReference.cache
+C:\Users\SindeevaLL\Desktop\C#\Sem9_Ex66\obj\Debug\net6.0\Sem9_Ex66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SindeevaLL\Desktop\C#\Sem9_Ex66\obj\Debug\net6.0\Sem9_Ex66.AssemblyInfoInputs.cache
+C:\Users\SindeevaLL\Desktop\C#\Sem9_Ex66\obj\Debug\net6.0\Sem9_Ex66.AssemblyInfo.cs
+C:\Users\SindeevaLL\Desktop\C#\Sem9_Ex66\obj\Debug\net6.0\Sem9_Ex66.csproj.CoreCompileInputs.cache
+C:\Users\SindeevaLL\Desktop\C#\Sem9_Ex66\obj\Debug\net6.0\Sem9_Ex66.dll
+C:\Users\SindeevaLL\Desktop\C#\Sem9_Ex66\obj\Debug\net6.0\refint\Sem9_Ex66.dll
+C:\Users\SindeevaLL\Desktop\C#\Sem9_Ex66\obj\Debug\net6.0\Sem9_Ex66.pdb
+C:\Users\SindeevaLL\Desktop\C#\Sem9_Ex66\obj\Debug\net6.0\Sem9_Ex66.genruntimeconfig.cache
+C:\Users\SindeevaLL\Desktop\C#\Sem9_Ex66\obj\Debug\net6.0\ref\Sem9_Ex66.dll
